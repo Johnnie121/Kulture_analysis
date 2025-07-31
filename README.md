@@ -69,3 +69,5 @@ Gmail: ojeahjohn2018@gmail.com
 
 - [LinkedIn](https://linkedin.com/in/yourusername)
 - [Portfolio Website](https://yourportfolio.com)
+<img width="1102" height="631" alt="page one" src="https://github.com/user-attachments/assets/347ae743-c4b4-434c-b65e-723a552b4603" />
+<img width="1094" height="632" alt="pics 2" src="https://github.com/user-attachments/assets/dc0cb045-3ebb-4927-b9f0-e174d02ed7e7" />
