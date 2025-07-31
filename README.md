@@ -22,8 +22,7 @@ In today’s evolving work environment, Gen-Z is becoming a dominant part of the
 
 
 📌 Objective
-
-•	To understand Gen-Z’s career expectations, allowing managers/employers to tailor employee experiences, enhance retention, and build a future-ready workforce.
+This project explores the growing misalignment between what Gen Z professionals want from their careers and what traditional employers offer. Through case observations, personal experiences, and data-backed reasoning, the project aims to help organizations improve Gen Z recruitment, engagement, and retention strategies.
 
 📁 Tools & Technologies
 
